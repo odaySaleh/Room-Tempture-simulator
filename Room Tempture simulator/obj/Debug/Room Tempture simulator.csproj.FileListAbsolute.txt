@@ -1,0 +1,34 @@
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\bin\Debug\Room Tempture simulator.exe.config
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\bin\Debug\Room Tempture simulator.exe
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\bin\Debug\Room Tempture simulator.pdb
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.csprojResolveAssemblyReference.cache
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Form1.resources
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Properties.Resources.resources
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.csproj.GenerateResource.Cache
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.exe
+c:\users\zftoon\documents\visual studio 2012\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\bin\Debug\Room Tempture simulator.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\bin\Debug\Room Tempture simulator.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.csprojResolveAssemblyReference.cache
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Form1.resources
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Properties.Resources.resources
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator\Room Tempture simulator\obj\Debug\Room Tempture simulator.csproj.GenerateResource.Cache
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\bin\Debug\Room Tempture simulator.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\bin\Debug\Room Tempture simulator.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.csprojResolveAssemblyReference.cache
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Form1.resources
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Properties.Resources.resources
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.csproj.GenerateResource.Cache
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.exe
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.pdb
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\bin\Debug\Room Tempture simulator.exe
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\bin\Debug\Room Tempture simulator.pdb
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.color_key.resources
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Form1.resources
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.Properties.Resources.resources
+D:\CIS\BTa3naaaaa\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room Tempture simulator.csproj.GenerateResource.Cache
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Room Tempture simulator_ Traditiojnal stupied shit as they want\Room Tempture simulator\obj\Debug\Room_Tempture_simulator.color_key.resources
